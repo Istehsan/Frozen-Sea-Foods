@@ -722,16 +722,32 @@ ul#nav li ul a,
 }
 
 .slider-bg-one {
-    background: url(img/slider/slide_1.jpg) no-repeat scroll center center / cover;
+    background: url(img/index/index1.jpg) no-repeat scroll center center / cover;
 }
 
 .slider-bg-two {
-    background: url(img/slider/slide_2.jpg) no-repeat scroll center center / cover;
+    background: url(img/index/index2.jpg) no-repeat scroll center center / cover;
 }
 
 .slider-bg-three {
-    background: url(img/slider/slide_3.jpg) no-repeat scroll center center / cover;
+    background: url(img/index/index3.jpg) no-repeat scroll center center / cover;
 }
+
+.slider-bg-four {
+    background: url(img/index/index4.jpg) no-repeat scroll center center / cover;
+}
+
+.slider-bg-five {
+    background: url(img/index/index5.jpg) no-repeat scroll center center / cover;
+}
+
+.slider-bg-six {
+    background: url(img/index/index6.jpg) no-repeat scroll center center / cover;
+}
+
+
+
+
 
 .welcome-slider-area.owl-carousel .owl-nav > div {
     background: #fff none repeat scroll 0 0;

@@ -232,6 +232,12 @@
     <Content Include="img\footer-border.png" />
     <Content Include="img\footer-map-bg.png" />
     <Content Include="img\IFB Inspection.jpg" />
+    <Content Include="img\index\index1.jpg" />
+    <Content Include="img\index\index2.jpg" />
+    <Content Include="img\index\index3.jpg" />
+    <Content Include="img\index\index4.jpg" />
+    <Content Include="img\index\index5.jpg" />
+    <Content Include="img\index\index6.jpg" />
     <Content Include="img\instafeed\1.jpg" />
     <Content Include="img\instafeed\2.jpg" />
     <Content Include="img\instafeed\3.jpg" />
@@ -386,7 +392,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50688</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50646/</IISUrl>
+          <IISUrl>http://localhost:50647/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
