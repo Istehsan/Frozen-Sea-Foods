@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="contact.html" />
     <Content Include="css3\camera.css" />
     <Content Include="css3\font-awesome.css" />
     <Content Include="css3\form.css" />
@@ -101,7 +102,7 @@
     <Content Include="animate.css" />
     <Content Include="blog.html" />
     <Content Include="bootstrap.min.css" />
-    <Content Include="contact.html" />
+    <Content Include="contactOLD.html" />
     <Content Include="css\animate.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\font-awesome.min.css" />
