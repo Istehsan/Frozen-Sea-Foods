@@ -1,0 +1,106 @@
+﻿.main {
+    background-color: #1c1c1c;
+}
+
+.content {
+    padding-bottom: 63px;
+}
+
+.page1 .content {
+    padding-bottom: 81px;
+}
+
+
+.content .noresize {
+    width: auto !important;
+    float: left !important;
+    margin-right: 20px !important;
+    margin-top: 4px !important;
+}
+
+
+.cont_pad1 {
+    padding-bottom: 155px;
+}
+
+.ic {
+    border: 0;
+    float: right;
+    background: #fff;
+    color: #f00;
+    width: 50%;
+    line-height: 10px;
+    font-size: 10px;
+    margin: -220% 0 0 0;
+    overflow: hidden;
+    padding: 0
+}
+
+
+
+
+.gal_item {
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+    .gal_item img {
+        width: 100%;
+        position: relative;
+    }
+
+    .gal_item .gal_caption {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background-color: rgba(190,114,134,0.63);
+        color: #fff;
+        font: 300 30px/35px 'BenchNine', 'sans-serif';
+        padding: 3px 0 8px 30px;
+        width: 153px;
+        left: auto;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -o-box-sizing: border-box;
+        box-sizing: border-box;
+        transition: 0.5s ease;
+        -o-transition: 0.5s ease;
+        -webkit-transition: 0.5s ease;
+        z-index: 3;
+    }
+
+    .gal_item:hover .gal_caption {
+        width: 100%;
+    }
+
+.gal_magnify {
+    position: absolute;
+    display: block;
+    background: url(../images/magnify.png) center -100px no-repeat;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+}
+
+.gal_item:hover .gal_magnify {
+    background-position: center center;
+}
+
+.gall__1 h3 {
+    padding-top: 65px;
+    margin-bottom: 38px;
+}
+
+.gall__1 .gal_item {
+    margin-bottom: 0;
+}
+
+.gall__1 .gal_caption {
+    padding-left: 15px;
+}
